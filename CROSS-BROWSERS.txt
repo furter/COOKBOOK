@@ -1,0 +1,12 @@
+CROSS BROWSERS
+
+FONTS
+http://www.fontsquirrel.com/tools/webfont-generator
+
+
+IMAGES SVG
+<object type="image/svg+xml" data="/path/to/image.svg">
+    <img src="/path/to/image.png">
+  </object>
+
+if you want to add style or class stuff you need to put it twice, sorry!

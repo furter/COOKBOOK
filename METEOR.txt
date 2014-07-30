@@ -1,0 +1,151 @@
+_________ nom de domaine
+
+acheter un nom de domaine
+exemple.net
+
+ou alors tester exemple.meteor.com
+si ça n'existe pas encore c'est qu'il est libre (à priori, à tester)
+
+
+_________ créer un dossier meteor
+
+Ouvrir le terminal
+écrire
+"curl https://install.meteor.com | /bin/sh"
+
+puis: 
+
+"meteor create exemple.net"
+
+-> meteor crée un dossier dans l'ordo contenant un fichier .html, un fichier .css et un fichier .js (javascript)
+Il crée aussi le site si c'est exemple.meteor.com
+
+[si vous êtes dans ce cas, dans ce qui suit remplacer exemple.net par juste "exemple"]
+
+
+_________ lancer meteor pour travailler sur les fichiers et voir ce que ça donne
+
+aller dans un dossier= "cd …" donc: "cd"+espace et le nom du dossier
+
+"cd exemple.net"
+
+ça c'est quand on ne change pas le dossier de place (l'endroit où meteor l'a installé automatiquement), si on change le dossier de place, par exemple on le met dans un Dropbox, super pratique) le chemin change. Dans ce cas essayer ça:
+
+taper "cd " (cd+espace) et glisser le dossier depuis le finder dans le terminal
+(il indique alors automatiquement le chemin du dossier, genre "cd /User…")
+
+lancer meteor pour lancer la visualisation du site sur le serveur local (dans le browser)
+
+dans le browser (n'importe lequel) taper: http://localhost:3000/
+
+le site se visualise!
+A chaque fois que les fichiers dans le dossier sont réactualisés (enregistrés) le site s'actualise dans le browser
+
+
+
+_________ ajouter les changements sur le site
+
+si meteor est lancé, il faut quitter meteor dans le terminal
+(contrôle+"c")
+"^c"
+
+on reste dans le dossier exemple.net
+et on tape:
+"meteor deploy exemple.net"
+
+
+
++++++++++ PLUS D'OPTIONS ++++++++++++++++++++++
+
+
+
+_________ créer des dossiers pour les images et pour les applications
+
+
+créer un dossier "client" et un dossier "public" dans le dossier exemple.net
+
+dans "public" on mettra toutes les images
+
+ainsi quand on voudra insérer une image dans le site, il suffira de mettre
+<img src="/nomDeLimage.jpg">
+Il va donc chercher par défaut les images dans le dossier "public"
+Si on crée des sous-dossiers dans le dossier "public" genre "sousdossier", le lien sera
+<img src="/sousdossier/nomDeLimage.jpg">
+
+dans "client" on mettra toutes les applications
+
+[compléter applications]
+
+
+_________ to have multiple pages:
+
+"meteor add backbone"
+
+
+
+créer des nouveaux fichiers .html dans le dossier
+avec comme nom le nom de l'extension et écrire ".html" à la fin
+pour la page exemple.net/path faire un fichier "path.html"
+
+Dans le fichier exemple.html :
+
+
+<head>
+   contenu qui sera visible sur toutes les pages
+</head>
+
+<body>
+
+<div id="container"></div>
+
+
+
+<footer>
+   contenu qui sera visible sur toutes les pages
+</footer>
+
+
+</body>
+
+<template name="exemple">
+{{renderPage}}
+</template>
+
+
+
+
+Donc le fichier exemple.html n'est que le squelette du site, il contient (dans <head> <body> et <footer> ce qui sera sur toutes les pages du site.
+
+
+Dans le fichier path.html :
+
+
+<template name="path">
+<p>
+
+contenu de la page
+
+</p>
+
+</template>
+
+
+------------- ds terminal ajouter:
+
+"meteor add backbone" (voir un peu plus haut)
+
+"meteor add less" (au lieu du fichier css, changer en .less permet de faire des calculs dans les styles)
+
+
+"meteor add jquery"
+
+
+"meteor add underscore"
+
+
+
+YEAH ^_^
+
+
+------------- meteor updates
+

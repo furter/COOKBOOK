@@ -1,0 +1,24 @@
+u:=25;                    % 25 = 25bp = 25 PostScript points = 30/72 in
+wi:=10;                   % width  in units u   
+he:=10;                    % height in units u
+height:=he*u;              % height
+width:=wi*u;		%width
+graisse := 25;
+
+beginchar("A",w#,w#,0); 
+
+  for i=0 upto he:
+    draw (0, i*u)--(width, i*u) withcolor .7white;
+  endfor
+  for j=0 upto wi:
+    draw (j*u, 0)--(j*u, height) withcolor .7white;
+
+
+  endfor
+
+pickup pencircle scaled 35;
+
+draw (6u,3u) -- (3u,15u) -- (u,3u);
+draw (2u,5u) -- (5u,6u);
+
+endchar; 

@@ -1,0 +1,540 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[danish,a2paper,11pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{slantsc}
+\usepackage{array}
+\usepackage{amsmath} % For math fonts, symbols and environments
+\usepackage{setspace} % line spacing
+\usepackage{tipa} % phonetic alphabet
+\setkomafont{subsection}{\usefont{T1}{cmr}{m}{n}}
+\setkomafont{section}{\usefont{T1}{cmr}{b}{n}\Large}
+\setcounter{secnumdepth}{0}
+\pagestyle{empty} % Both header and footer are clear.
+% {plain} Header is clear, but he footer contains the page number.
+% {headings} Header displays page number and other information which the document class deems important, e.g., section headers.
+\usepackage{mflogo}
+\usepackage{setspace} % allows more fine-grained control over line spacing:
+%\singlespacing
+%\onehalfspacing
+%\doublespacing
+%\setstretch{1.1}
+\renewcommand{\footnotesize}{\fontsize{14}{13}\selectfont}
+% change size footnotes
+\makeatletter
+\renewcommand{\@makefnmark}{\hbox{\textsuperscript{\small{\@thefnmark}}}}
+\makeatother
+% change size footnote numbers
+
+\usepackage{multicol} % This is so we can have multiple columns of text side-by-side
+\columnsep=35pt % This is the amount of white space between the columns in the poster
+
+\usepackage{graphicx} % Required for including images
+\graphicspath{{figures/}} % Location of the graphics files
+
+\usepackage[margin=2cm]{geometry}
+% or \usepackage[top=length, bottom=length, left=length, right=length]{geometry}
+\usepackage[svgnames]{xcolor} % Specify colors by their 'svgnames', for a full list of all colors available see here: http://www.latextemplates.com/svgnames-colors
+
+\geometry{top=2cm}
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT 
+%----------------------------------------------------------------------------------------
+
+
+
+\begin{document}
+\pagecolor{Blue}
+
+
+\font\romanxxl=cmr10 at 130pt
+\font\romansmall=cmr10 at 14pt
+\font\romanbig=cmr10 at 36pt
+\font\typewritersmall=cmtt8 at 14pt
+\font\metaessay=cmr10 at 36pt
+\font\metatext=cmr10 at 22pt
+
+
+
+\begin{center}
+\color{White}
+\normalfont\logofamily
+\Huge METAPOS{\TeX}
+\vspace{2cm}
+\end{center}
+
+\begin{multicols*}{3}
+\addtolength{\linewidth}{1in}
+% \setlength{\columnsep}{20pt} % change the horizontal space in between columns
+\color{Black}
+
+
+\vspace{4cm}
+
+% fig.1
+\center
+\includegraphics[scale=5]{metapoints/metapoints-1.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-line.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in % paragraph space left, ends with \par} 
+beginfig(1);\\
+draw (0,0) -- (30,0);\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.2
+\center
+\includegraphics[scale=5]{metapoints/metapoints-2.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-curve-up.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(1);\\
+draw (0,0) ... (30,0))\{down\};\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.3
+\center
+\includegraphics[scale=5]{metapoints/metapoints-3.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-curve-down.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(1);\\
+draw (0,0) ... (30,0)\{up\};\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.4
+\center
+\includegraphics[scale=5]{metapoints/metapoints-4.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-wave.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(1);\\
+draw (0,0)\{down\} ... (30,0)\{down\};\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+\columnbreak
+
+% fig.5
+\center
+\includegraphics[scale=5]{metapoints/metapoints-5.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-sun.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(1);\\
+draw (0,0) ... (30,0)\{down\} -- cycle;\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.6
+\center
+\includegraphics[scale=5]{metapoints/metapoints-6.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-U.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(1);\\
+draw (0,30)\{down\} .. (15,5) .. (30,30)\{up\};\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.7
+\center
+\includegraphics[scale=5]{metapoints/metapoints-7.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-U.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(2);\\
+draw (0,30)\{down\} .. tension 2 .. (15,5) ... (30,30)\{up\};\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.8
+\center
+\includegraphics[scale=5]{metapoints/metapoints-8.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-U.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(3);\\
+draw (0,30) .. (15,5) .. (30,30);\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+\columnbreak
+
+% fig.9
+\center
+\includegraphics[scale=5]{metapoints/metapoints-9.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-V.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(1);\\
+draw (0,30) -- (15,0) ... (30,30)\{up\};\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.10
+\center
+\includegraphics[scale=5]{metapoints/metapoints-10.pdf}
+\vspace{2cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-V.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(2);\\
+draw (0,30) --- (15,0) .. (30,30)\{up\};\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.11
+\center
+\includegraphics[scale=5]{metapoints/metapoints-11.pdf}
+\vspace{0cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-V.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(3);\\
+draw (0,30) --- (15,0) .. (30,30)\{dir-20\};\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+\end{multicols*}
+
+% ???????
+% PAGE 2
+% ???????
+
+
+\begin{center}
+\color{White}
+\normalfont\logofamily
+\Huge METAPOS{\TeX}
+\vspace{2cm}
+\end{center}
+
+\begin{multicols*}{3}
+
+% fig.14 PEN PARAMETERS
+\center
+\includegraphics[scale=4.5]{metapost-pen/metapost-pen-1.pdf}
+\vspace{1cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-pen.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(6);\\
+draw (0,30) -- (15,0) ... (30,30)\{up\} withpen pencircle scaled 2;\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.15
+\center
+\includegraphics[scale=4.5]{metapost-pen/metapost-pen-2.pdf}
+\vspace{1cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-V.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(6);\\
+draw (0,30) -- (15,0) ... (30,30)\{up\} withpen pencircle xscaled 3 yscaled 1 rotated 25;\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.16
+\center
+\includegraphics[scale=4.5]{metapost-pen/metapost-pen-3.pdf}
+\vspace{1cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-V.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(6);\\
+draw (0,30) -- (15,0) ... (30,30)\{up\} withpen pensquare xscaled 3 yscaled 2 rotated -30;\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.17
+\center
+\includegraphics[scale=4.5]{metapost-pen/metapost-pen-4.pdf}
+\vspace{1cm}
+
+\flushleft
+\color{White}
+\romansmall
+metapost-V.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(6);\\
+draw (0,30) -- (15,0) ... (30,30)\{up\} withpen penrazor xscaled 3 rotated 37;\\
+endfig;\\
+end
+\par}
+\vspace{2cm}
+
+% fig.A-1
+\center
+\includegraphics[scale=.25]{draww-1.pdf}
+\vspace{-1cm}
+
+\flushleft
+\color{White}
+\romansmall
+draww.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(1);\\
+pickup pencircle xscaled 2 yscaled 1 rotated 25 scaled 25\\
+draw (0,900) .. (100,1000) .. (350,800) -- (350,400) .. (420,340) .. (470,380);\\
+endfig;\\
+end
+\par}
+
+% fig.A-2
+\center
+\includegraphics[scale=.25]{draww-2.pdf}
+\vspace{-1cm}
+
+\flushleft
+\color{White}
+\romansmall
+draww.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(2);\\
+pickup pencircle xscaled 2 yscaled 1 rotated 25 scaled 34\\
+draw (342,750) .. (300,725) .. (200,700) .. (30,600) .. (50,200) .. (400,330);\\
+pickup pencircle scaled 60\\
+draw (6,885);\\
+endfig;\\
+end
+\par}
+
+% fig.A-3
+\center
+\includegraphics[scale=.25]{draww-3.pdf}
+\vspace{-1cm}
+
+\flushleft
+\color{White}
+\romansmall
+draww.mp\\
+\vspace{.4cm}
+\color{Black}
+\typewritersmall
+{\leftskip = .3in
+beginfig(3);\\
+pickup pencircle xscaled 2 yscaled 1 rotated 25 scaled 25\\
+draw (0,900) .. (100,1000) .. (350,800) -- (350,400) .. (420,340) .. (470,380);\\
+pickup pencircle xscaled 2 yscaled 1 rotated 25 scaled 34\\
+draw (342,750) .. (300,725) .. (200,700) .. (30,600) .. (50,200) .. (400,330);\\
+pickup pencircle scaled 60\\
+draw (6,885);\\
+endfig;\\
+end
+\par}
+
+
+\vspace{2cm}
+
+\color{White}
+\romansmall
+Note\\
+\vspace{.4cm}
+\color{Black}
+Each metapost document must start with:\\
+{\leftskip = .3in
+\typewritersmall
+prologues := 3;     % sortie EPS
+\par}
+
+\columnbreak
+
+Parametric Font
+
+
+
+\end{multicols*}
+
+\pagebreak
+
+
+% —————
+% PAGE 3
+% —————
+
+\begin{center}
+\color{White}
+\normalfont\logofamily
+\Huge METAMETAPOS\TeX
+\end{center}
+
+\metaessay
+\noindent
+This poster was initiated during Relearn Summer School, organised by OSP Open Source Publishing at Variable (Brussels) in the Summer 2013. 
+It is a sequel to an open source poster made by OSP for the exhibition Visual Grammar at MAD Brussels in September 2012, showing the construction of Bézier and Spiro curves-based (type) design, laid-out with\vbox{Inkscape.}\\
+The present poster is an attempt to have a similar approach with the principles of MetaPost and MetaFont, using \fontsize{100pt}{38pt}\LaTeX{} for the layout.\\
+The title of the poster is a word play with the word \fontsize{100pt}{38pt}\TeX{}, which according to some users is supposed to be pronounced [\textipa{ t E K }], “ter”.
+\openup .6 \baselineskip % 1.5 linespacing. At the end of a paragraph
+
+\vspace{2cm}
+\begin{multicols*}{3}
+\color{Black}
+\metatext
+\noindent
+Despite the shifts in type design technologies, from wood and metal movable type to digital fonts, type designers almost always approach the font the same way: as a drawing and as outlines.
+
+Nowadays, a digital typeface is usually drawn in vector softwares, which in terms of design experience means building and adjusting visual shapes (by moving points on Bézier curves) on a digital canvas. In parallel, in terms of computer programing, a series of programmatic instructions - code - is drawn.
+
+In outline fonts, points define coordinates for the contour of the letter, its letterform and counterform (the circle inside an “o” for instance).
+
+This font-design method defines the font by drawing its limits, its frontiers. This is a quite conventional way of working with fonts, dating from engraving wood type and cutting punches for metal fonts. And just like punchcutting a metal font, the font designer designs every letters and then every styles one by one. And while the designer draws his or her letter, the computer program transcripts the corresponding code.\\
+Even though code is their essence, digital fonts today are hardly ever designed by writing code, except in a font and typesetting system created in 1979 by computer scientist and mathematician Donald Knuth: MetaFont. An early digital type system, MetaFont is an algebraic programming language to make stroke fonts.\\
+At Relearn\footnote{Summer School organised by OSP at Variable}, the interest for stroke fonts systems like MetaFont was justified by their return to “gesture”, calligraphy.\\
+It is true that stroke fonts recall handwriting/carving, as both have as constructive element a center line along which the shape of the letter is “traced”. Conceptually, stroke fonts are a return to gesture, for they propose to think and make fonts with their skeleton as a starting point. 
+And the syntax used in MetaFont systems refers to the gesture of hand writing: “pick up pen”, “draw”\ldots\\
+But in fact, very far away from any calligraphic hand or physical gesture (or a very specific one!), in this system the hand of the typographer basically hits buttons to write code.\\
+It is though very close to the “digital gesture”, that of the computer. It is writing letters with other letters: the alphabet and punctuation signs.\\
+Programatic gesture.\\
+Parametric\\
+These programs were hardly ever reappropriated by graphic designers. Only a few recent examples show a resurgence of interest for that kind of way of approaching typefaces and design. OSP did a book using TEX in 2009. Dexter Sinister produced a MetaFont and wrote in 2010 a paper in their magazine Dot Dot Dot on the subject, “A Note on the Type” (Dexter Sinister, 2010). In 2011, Ecal published a book called Typeface as a Program, in collaboration with Jürg Lehni, designer, programmer and artist, who works on typography and programming. Finally, Simon Egli is now developing projects that make MetaFont technology accessible, or at least comprehensible, in the context of contemporary graphic design, through more visual interfaces, and an effort in translating and embedding passages from MetaFont to usual font formats et vice versa.\\
+With the current tendency for self-reflexive, meta processes, this is quite in the air of time!\\ 
+\\
+References:\\
+Dave Crossland, {\it Why didn't METAFONT catch on?}, TUGboat, Volume 29 (2008), No. 3, 418-420.\\
+http://ospublish.constantvzw.org/\linebreak sources/vj10/\\
+Dexter Sinister, {\it A Note on the Type}, Dot Dot Dot 20 (2010), and in the first issue of Bulletins of the Serving Library (2011).\\
+www.servinglibrary.org\\
+www.metaflop.com\\
+metapolator.com
+
+\end{multicols*}
+
+\end{document}

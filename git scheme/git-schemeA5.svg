@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="524.40942"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="git-schemeA5.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4449"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path4327"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4309"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.96169515"
+     inkscape:cx="258.19136"
+     inkscape:cy="449.42728"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="724"
+     inkscape:window-x="20"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-548.51234,926.44175"
+       id="guide4950" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-260.28601,786.74021"
+       id="guide4952" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26753)">
+    <flowRoot
+       transform="translate(1698.6919,660.65484)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5791"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5793"><rect
+           style="text-align:start;text-anchor:start"
+           y="83.790756"
+           x="77.14286"
+           height="228.08635"
+           width="172.12184"
+           id="rect5795" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5797" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1190"
+       y="366.15295"
+       id="text3253"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-1052.3623)"><tspan
+         sodipodi:role="line"
+         id="tspan3255"
+         x="1190"
+         y="366.15295" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4067"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(2011.554,-597.48527)"><flowRegion
+         id="flowRegion4069"><rect
+           id="rect4071"
+           width="220.02974"
+           height="385.69479"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4077"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,109.67475,308.68133)"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="660"
+           height="245.71428"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara2999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">THE GREAT GIT SCHEME</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,109.47398,412.98365)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3497"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3499"><rect
+           y="83.790756"
+           x="77.14286"
+           height="245.71428"
+           width="660"
+           id="rect3501"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3503">THE GIT SERVER</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3505"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,150.49041,554.50072)"><flowRegion
+         id="flowRegion3507"><rect
+           id="rect3509"
+           width="100.24513"
+           height="111.87672"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3511"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">1.</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5331">GIT</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5313">CLONE</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5852" /></flowRoot>    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,274.64475,568.97481)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3513"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3515"><rect
+           y="83.790756"
+           x="77.14286"
+           height="114.28571"
+           width="122.85716"
+           id="rect3517"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3519">4.</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5619">GIT</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5315">PUSH</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3521"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,106.6449,606.58264)"><flowRegion
+         id="flowRegion3523"><rect
+           id="rect3525"
+           width="660"
+           height="245.71428"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">YOUR</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3529">COMPUTER</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+       d="m 246.55009,572.41787 c -22.4326,9.61352 -23.69874,43.233 -3.30751,55.26827"
+       id="path3533"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,194.01406,433.8209)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5317"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5319"><rect
+           style="text-align:center;text-anchor:middle"
+           y="83.790756"
+           x="77.14286"
+           height="108.57143"
+           width="221.4286"
+           id="rect5321" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5906">SHARED DATABASE OF REPOSITORIES</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5910">(files + their history)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5333"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,184.29661,511.10504)"><flowRegion
+         id="flowRegion5335"><rect
+           id="rect5337"
+           width="258.47504"
+           height="50.57431"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5339">GIT REPOSITORY</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5754">= version database</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,62.101744,489.94731)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5341"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5343"><rect
+           style="text-align:start;text-anchor:start"
+           y="83.790756"
+           x="77.14286"
+           height="223.0356"
+           width="221.61931"
+           id="rect5345" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5490"><flowSpan
+           style="font-style:oblique;-inkscape-font-specification:OSP_Le-patin-helvete Oblique"
+           id="flowSpan5888">git clone </flowSpan></flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5856">= downloads a folder with a copy of the <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan5600">file </flowSpan></flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5848">+ a history of this file (= local repository or version database) </flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5850">in the folder (hidden).</flowPara></flowRoot>    <g
+       id="g5998"
+       transform="matrix(0.385875,0,0,0.385875,57.270955,498.4056)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:16, 8;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+         d="m 320.19543,-142.02812 -25.97375,-70.94479"
+         id="path5377"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:16, 8;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+         d="m 790.26517,-113.13214 60.47472,-45.28363"
+         id="path5381"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5383"
+         d="M 294.09702,-113.13214 233.6223,-158.41577"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:16, 8;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5413"
+         d="m 762.42268,-142.02812 25.97375,-70.94479"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:16, 8;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5415"
+       d="m 282.19316,629.49686 c 22.43261,-9.61352 23.69871,-43.233 3.30753,-55.26826"
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,330.47691,545.14039)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5417"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5419"><rect
+           style="text-align:start;text-anchor:start"
+           y="83.790756"
+           x="77.14286"
+           height="154.62003"
+           width="181.70341"
+           id="rect5421" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5425"><flowSpan
+           style="font-style:oblique;-inkscape-font-specification:OSP_Le-patin-helvete Oblique"
+           id="flowSpan5890">git push </flowSpan></flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5859">= adds your contributions &amp; changes in the history to the repository</flowPara></flowRoot>    <g
+       transform="matrix(0.385875,0,0,0.385875,193.26862,653.77221)"
+       id="g5429">
+      <path
+         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+         id="path5431"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+         id="path5433"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g5447"
+       transform="matrix(0.385875,0,0,0.385875,120.03881,369.78629)">
+      <g
+         transform="translate(185.36301,78.04061)"
+         id="g5395">
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           id="path5397"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           id="path5399"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g5435"
+         transform="translate(193.43444,69.612039)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5437"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path5439"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <g
+       id="g5745"
+       transform="matrix(0.385875,0,0,0.385875,106.46315,376.82165)">
+      <g
+         transform="translate(0,-14)"
+         id="g5464">
+        <g
+           transform="translate(122.48102,50.04061)"
+           id="g5389">
+          <path
+             style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+             d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+             id="path5391"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+             id="path5393"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g5458"
+           transform="translate(130.48102,42.04061)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path5460"
+             d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+             style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path5462"
+             d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+             style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5737"
+       transform="matrix(0.385875,0,0,0.385875,134.24615,376.82165)">
+      <g
+         id="g5401"
+         transform="translate(248.24498,36.04061)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5403"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path5405"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         transform="translate(256.24498,28.04061)"
+         id="g5478">
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           id="path5480"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           id="path5482"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       id="g5721"
+       transform="matrix(0.385875,0,0,0.385875,109.42462,357.5279)">
+      <g
+         transform="translate(59.599,4.0406102)"
+         id="g5385">
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           id="rect5363"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           id="rect5371"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g5472"
+         transform="translate(67.599,-3.9593898)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5474"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path5476"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <g
+       id="g5729"
+       transform="matrix(0.385875,0,0,0.385875,136.1051,357.5279)">
+      <g
+         transform="translate(311.12699,4.0406102)"
+         id="g5407">
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           id="path5409"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           id="path5411"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g5484"
+         transform="translate(319.12699,-3.9593898)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5486"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path5488"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,270.16455,720.17826)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5492"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5494"><rect
+           style="text-align:center;text-anchor:middle"
+           y="83.790756"
+           x="77.14286"
+           height="95.714279"
+           width="104.28574"
+           id="rect5496" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5498">2.</flowPara><flowPara
+         id="flowPara5500"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">GIT</flowPara><flowPara
+         id="flowPara5502"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">ADD</flowPara></flowRoot>    <g
+       transform="matrix(0.385875,0,0,0.385875,169.93226,575.2442)"
+       id="g5506">
+      <g
+         id="g5508"
+         transform="translate(185.36301,78.04061)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5510"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path5512"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         transform="translate(193.43444,69.612039)"
+         id="g5514">
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           id="path5516"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           id="path5518"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g5520"
+         transform="translate(201.43444,61.612039)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5522"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path5524"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5526"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,190.85648,763.80955)"><flowRegion
+         id="flowRegion5528"><rect
+           id="rect5530"
+           width="224.49388"
+           height="145.21175"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5542">MODIFY THE FILE</flowPara></flowRoot>    <g
+       transform="matrix(0.385875,0,0,0.385875,120.49129,540.8876)"
+       id="g5564">
+      <g
+         id="g5566"
+         transform="translate(185.36301,78.04061)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5568"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path5570"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         transform="translate(193.43444,69.612039)"
+         id="g5572">
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           id="path5574"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           id="path5576"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5578"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,163.61212,652.96796)"><flowRegion
+         id="flowRegion5580"><rect
+           id="rect5582"
+           width="141.81725"
+           height="81.614182"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5623">the last version of the cloned file</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5604"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,328.02785,726.61359)"><flowRegion
+         id="flowRegion5606"><rect
+           id="rect5608"
+           width="172.12184"
+           height="228.08635"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5614"
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete Oblique">git add</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5894">= specifies the files you want to commit to your local version database.</flowPara></flowRoot>    <g
+       id="g5631"
+       transform="matrix(0.385875,0,0,0.385875,167.20011,412.95616)">
+      <g
+         transform="translate(185.36301,78.04061)"
+         id="g5633">
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           id="path5635"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           id="path5637"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g5639"
+         transform="translate(193.43444,69.612039)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path5641"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path5643"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         transform="translate(201.43444,61.612039)"
+         id="g5645">
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 197.90348,329.81597 0,23.94481 -29.88354,0 0,-36.02033 17.84596,0"
+           id="path5647"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 185.61917,317.47365 12.54041,12.54042 -12.54041,0 z"
+           id="path5649"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,242.123,652.96796)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5653"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5655"><rect
+           style="text-align:center;text-anchor:middle"
+           y="83.790756"
+           x="77.14286"
+           height="128.08121"
+           width="194.3452"
+           id="rect5657" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5667">+ its history </flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5671">or local version database</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5677"
+       d="m 246.55009,572.41787 c -22.4326,9.61352 -23.69874,43.233 -3.30751,55.26827"
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+       d="m 282.19316,629.49686 c 22.43261,-9.61352 23.69871,-43.233 3.30753,-55.26826"
+       id="path5679"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+       d="m 248.09355,713.49929 c -22.43256,9.61352 -23.6987,43.23301 -3.30747,55.26827"
+       id="path5681"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5683"
+       d="m 279.87791,770.57829 c 22.43261,-9.61352 23.69871,-43.23301 3.30753,-55.26827"
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5709"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,324.27912,662.85216)"><flowRegion
+         id="flowRegion5711"><rect
+           id="rect5713"
+           width="104.28574"
+           height="95.714279"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara5715"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">3.</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5717">GIT</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5719">COMMIT</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,381.26809,655.69148)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5756"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5758"><rect
+           style="text-align:start;text-anchor:start"
+           y="83.790756"
+           x="77.14286"
+           height="246.6962"
+           width="191.67006"
+           id="rect5760" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5762"><flowSpan
+           style="font-style:oblique;-inkscape-font-specification:OSP_Le-patin-helvete Oblique"
+           id="flowSpan5920">git commit </flowSpan></flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5861">= adds the modifications to the history of the local repository.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,190.85648,832.71079)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5783"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5785"><rect
+           style="text-align:center;text-anchor:middle"
+           y="83.790756"
+           x="77.14286"
+           height="145.21175"
+           width="224.49388"
+           id="rect5787" /></flowRegion><flowPara
+         id="flowPara5789"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">IF YOU CREATE A NEW REPOSITORY</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5813"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,63.169093,598.70202)"><flowRegion
+         id="flowRegion5815"><rect
+           id="rect5817"
+           width="222.47359"
+           height="221.98334"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5819">OR</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5854">IF YOU ALREADY HAVE THIS REPOSITORY</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5912">1.</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5914">GIT</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5918">PULL</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5916" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5833"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,91.771781,677.41024)"><flowRegion
+         id="flowRegion5835"><rect
+           id="rect5837"
+           width="148.88834"
+           height="271.52292"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5843"
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete Oblique">git pull</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5896">= update your local history of this repository.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5898"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,193.18786,352.50979)"><flowRegion
+         id="flowRegion5900"><rect
+           id="rect5902"
+           width="224.49388"
+           height="145.21175"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5904">IF YOU WANT TO MODIFY A FILE THAT EXISTS ON A GIT SERVER</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,215.19597,794.76967)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5922"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5924"><rect
+           style="text-align:center;text-anchor:middle"
+           y="83.790756"
+           x="77.14286"
+           height="111.87672"
+           width="100.24513"
+           id="rect5926" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara5928">1.</flowPara><flowPara
+         id="flowPara5930"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">GIT</flowPara><flowPara
+         id="flowPara5932"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">INIT</flowPara><flowPara
+         id="flowPara5934"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete" /></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5936"
+       d="m 266.48284,374.70206 -0.004,1.0391"
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+       d="m 266.48284,894.66427 -0.004,-1.03909"
+       id="path5938"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,291.59541,795.13865)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot5940"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5942"><rect
+           style="text-align:start;text-anchor:start"
+           y="83.790756"
+           x="77.14286"
+           height="228.08635"
+           width="172.12184"
+           id="rect5944" /></flowRegion><flowPara
+         style="font-size:20px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete Oblique"
+         id="flowPara5946">git init</flowPara><flowPara
+         id="flowPara5948"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">= creates an invisible git file in your project’s folder</flowPara></flowRoot>    <path
+       style="opacity:0.15;fill:none;stroke:#000000;stroke-width:1.15799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 266.58055,375.83711 c 0,0 -1.49651,29.46847 10.61102,67.33503 8.7146,27.25511 17.13779,58.21218 7.36334,82.74921 -12.01175,30.15349 -63.7042,36.67376 -90.72314,98.12685 -24.07107,54.74839 -10.41982,185.48923 107.43022,155.1931 1.46119,-0.37565 16.77595,-10.87438 23.19981,-18.35607 10.70841,-12.47176 30.54517,-27.61194 24.39686,-42.85702 -9.05038,-22.44091 -61.49967,2.26958 -69.63075,-20.52054 -12.78836,-35.84381 75.85901,-51.64129 64.35233,-94.30625 -14.99159,-55.58661 -59.2202,-77.28007 -59.2202,-77.28007"
+       id="path6010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssaaasc" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#000000;stroke-width:1.15762496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 283.60751,527.66008 c 0,0 -2.8155,9.2881 -29.89206,27.44013 -111.05888,33.48319 -113.91224,98.47435 -96.49002,157.53815 14.87976,50.4445 79.24395,104.48105 142.23892,68.28324"
+       id="path6012"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccac" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#000000;stroke-width:1.15762496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 267.69623,893.57166 c 0,0 -4.5475,-33.17996 -0.77959,-49.11386 2.79119,-11.80326 15.9895,-46.42041 26.89823,-57.10841 15.42558,-15.11342 6.72526,-7.43099 6.72526,-7.43099"
+       id="path6014"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+       d="m 284.90093,524.72984 -0.39074,0.96285"
+       id="path6016"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6018"
+       d="m 194.49227,623.17861 -0.3907,0.96285"
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+       d="m 156.86282,711.56542 0.32858,0.98579"
+       id="path6020"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6022"
+       d="m 301.07287,778.50735 0.32738,0.98619"
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+       d="m 345.87709,715.33351 1.01739,-0.21136"
+       id="path6024"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6026"
+       d="m 342.53201,603.50289 1.02705,0.15799"
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6050"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,388.6918,425.69562)"><flowRegion
+         id="flowRegion6052"><rect
+           id="rect6054"
+           width="220.02974"
+           height="385.69479"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara6137">If there is a conflict, git might refuse your commit push. You will then first need to pull again (see the other side of the scheme).</flowPara></flowRoot>    <path
+       transform="matrix(0.08508346,0,0,0.03525094,262.10914,564.21865)"
+       d="m 1038.4368,661.88417 -71.48079,20.67781 1.97825,74.38526 -65.166,-35.92316 -51.19948,53.99717 -20.67782,-71.48083 -74.38526,1.97825 35.92316,-65.166 -53.99717,-51.19948 71.48083,-20.67782 -1.97825,-74.38526 65.166,35.92316 51.19949,-53.99717 20.67781,71.48084 74.38523,-1.97826 -35.92313,65.166 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.6313084"
+       sodipodi:arg1="0.23860932"
+       sodipodi:r2="96.650558"
+       sodipodi:r1="153.86185"
+       sodipodi:cy="625.51868"
+       sodipodi:cx="888.93427"
+       sodipodi:sides="8"
+       id="path6065"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:2.99924159;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:2.99924159;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path6067"
+       sodipodi:sides="8"
+       sodipodi:cx="888.93427"
+       sodipodi:cy="625.51868"
+       sodipodi:r1="153.86185"
+       sodipodi:r2="96.650558"
+       sodipodi:arg1="0.23860932"
+       sodipodi:arg2="0.6313084"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1038.4368,661.88417 -71.48079,20.67781 1.97825,74.38526 -65.166,-35.92316 -51.19948,53.99717 -20.67782,-71.48083 -74.38526,1.97825 35.92316,-65.166 -53.99717,-51.19948 71.48083,-20.67782 -1.97825,-74.38526 65.166,35.92316 51.19949,-53.99717 20.67781,71.48084 74.38523,-1.97826 -35.92313,65.166 z"
+       transform="matrix(0.08508346,0,0,0.03525094,86.089065,592.26355)" />
+    <g
+       id="g6087"
+       transform="matrix(0.385875,0,0,0.385875,165.57059,513.21772)">
+      <g
+         id="g6102">
+        <path
+           transform="matrix(0.74357247,0,0,0.3080696,-917.35065,94.049549)"
+           d="m 1038.4368,661.88417 -65.83018,12.01082 22.43654,63.04348 -61.87345,-25.48636 -15.20905,65.16566 -38.27229,-54.8918 -48.02588,46.59821 -2.51996,-66.86948 -65.59483,13.23615 34.03245,-57.61658 -62.33789,-24.32828 59.77979,-30.07082 -39.28911,-54.16867 66.54748,7.02221 -3.76632,-66.81087 52.18681,41.88574 32.95226,-58.2411 21.25719,63.45084 59.20873,-31.1802 -16.42143,64.87076 66.66684,5.7802 -48.88636,45.69466 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="0.52420865"
+           sodipodi:arg1="0.23860932"
+           sodipodi:r2="96.650558"
+           sodipodi:r1="153.86185"
+           sodipodi:cy="625.51868"
+           sodipodi:cx="888.93427"
+           sodipodi:sides="11"
+           id="path6077"
+           style="fill:#ffffff;stroke:#0000ff;stroke-width:2.99924159;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="star" />
+        <flowRoot
+           transform="translate(-396.88243,189.84472)"
+           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot6069"
+           xml:space="preserve"><flowRegion
+             id="flowRegion6071"><rect
+               y="83.790756"
+               x="77.14286"
+               height="114.28571"
+               width="122.85716"
+               id="rect6073"
+               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+             id="flowPara6075">CONFLICT</flowPara></flowRoot>      </g>
+    </g>
+    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,-7.714531,641.24534)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6079"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6081"><rect
+           style="text-align:start;text-anchor:start"
+           y="83.790756"
+           x="77.14286"
+           height="499.9805"
+           width="212.8869"
+           id="rect6083" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara6085">If there is a conflict (“Your local changes to the following files would be overwritten by merge: …”)</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara6096">= when several persons modified the same repository, the different versions must be merged. </flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara4177">Git usually does it alone, but here there are changes on the same lines of code.</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara6094">You must then solve it “by hand”, and then try again adding - committing -pushing! </flowPara></flowRoot>    <g
+       id="g6109"
+       transform="matrix(0.385875,0,0,0.385875,-2.705094,454.9981)">
+      <path
+         transform="matrix(0.74357247,0,0,0.3080696,365.54308,33.440396)"
+         d="m 1038.4368,661.88417 -65.83018,12.01082 22.43654,63.04348 -61.87345,-25.48636 -15.20905,65.16566 -38.27229,-54.8918 -48.02588,46.59821 -2.51996,-66.86948 -65.59483,13.23615 34.03245,-57.61658 -62.33789,-24.32828 59.77979,-30.07082 -39.28911,-54.16867 66.54748,7.02221 -3.76632,-66.81087 52.18681,41.88574 32.95226,-58.2411 21.25719,63.45084 59.20873,-31.1802 -16.42143,64.87076 66.66684,5.7802 -48.88636,45.69466 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="0.52420865"
+         sodipodi:arg1="0.23860932"
+         sodipodi:r2="96.650558"
+         sodipodi:r1="153.86185"
+         sodipodi:cy="625.51868"
+         sodipodi:cx="888.93427"
+         sodipodi:sides="11"
+         id="path6048"
+         style="fill:#ffffff;stroke:#0000ff;stroke-width:2.99924159;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="star" />
+      <flowRoot
+         transform="translate(886.0113,129.23557)"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot6028"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6030"><rect
+             y="83.790756"
+             x="77.14286"
+             height="114.28571"
+             width="122.85716"
+             id="rect6032"
+             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0000ff;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+           id="flowPara6038">CONFLICT</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3260"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.385875,0,0,0.385875,-9.268179,290.23355)"><flowRegion
+         id="flowRegion3262"><rect
+           id="rect3264"
+           width="260.89288"
+           height="302.87585"
+           x="77.14286"
+           y="83.790756"
+           style="text-align:start;text-anchor:start;fill:#000000" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara4809">The great git scheme was initiated during Relearn Summer School at Variable (Brussels, Summer 2013) and released under Free Art License.</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3292">see: http://relearn.be/</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara4797">Don’t hesitate to  contribute to this scheme using git: </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3295">http://git.constantvzw.org/?p=relearn.cheat-sheet.git</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara4803">The typeface used here is Le Patin Helvète by OSP. You can find it here: </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara4958">http://ospublish.constantvzw.org/foundry/le-patin-helvete/</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3298">It was made on Inkscape by Loraine Furter, Eric Schrijver, … </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3297">[to be completed]</flowPara><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;opacity:0.5;fill:#000000;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3294" /></flowRoot>    <path
+       sodipodi:nodetypes="czc"
+       inkscape:connector-curvature="0"
+       id="path3257"
+       d="m 309.44559,535.2017 c 0,0 19.01298,2.44315 37.83928,-10.87235 18.8263,-13.31549 62.40751,-81.93984 80.14417,-99.49108"
+       style="opacity:0.15;fill:none;stroke:#000000;stroke-width:1.15762496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.94575, 6.94575;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77174997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.174, 3.087;stroke-dashoffset:0;marker-end:url(#TriangleOutL)"
+       d="m 307.68789,534.3036 0.32737,0.98618"
+       id="path3259"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="matrix(0.385875,0,0,0.385875,366.11504,348.92561)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4155"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4157"><rect
+           style="text-align:start;text-anchor:start"
+           y="83.790756"
+           x="77.14286"
+           height="385.69479"
+           width="220.02974"
+           id="rect4159" /></flowRegion><flowPara
+         id="flowPara4161"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">Other persons can push their own modifications to the server repository.</flowPara></flowRoot>    <rect
+       y="910.48358"
+       x="191.05836"
+       height="122.40928"
+       width="143.23665"
+       id="rect4817"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.98448706000000019;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:17.90692364999999953, 17.90692364999999953;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.98448706000000019;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:17.90692364999999953, 17.90692364999999953;stroke-dashoffset:0"
+       id="rect4857"
+       width="143.23665"
+       height="122.40928"
+       x="22.645655"
+       y="910.48358" />
+    <rect
+       y="910.48358"
+       x="359.4711"
+       height="122.40928"
+       width="143.23665"
+       id="rect4864"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.98448706000000019;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:17.90692364999999953, 17.90692364999999953;stroke-dashoffset:0" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4916"><flowRegion
+         id="flowRegion4918"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4857"
+           id="use4920"
+           width="524.40942"
+           height="744.09448" /><use
+           x="0"
+           y="0"
+           xlink:href="#rect4817"
+           id="use4922"
+           width="524.40942"
+           height="744.09448" /><use
+           x="0"
+           y="0"
+           xlink:href="#rect4864"
+           id="use4924"
+           width="524.40942"
+           height="744.09448" /></flowRegion><flowPara
+         id="flowPara4926"
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">GIT is a version management system, which means it can keep track of the steps of a work and allows to work collaboratively.</flowPara><flowPara
+         id="flowPara4930"
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">To use it, the users have to install a local repository (<flowSpan
+   style="fill:#0000ff"
+   id="flowSpan4960">clone</flowSpan> of the main server repository), to be modified locally, and then sent back to be re-integrated in the “orginal” project (<flowSpan
+   style="fill:#0000ff"
+   id="flowSpan4962">commits</flowSpan>). This process uses <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan4964">branching</flowSpan>: duplicating a source code to modify it, and to then re-integrate it in the initial repository (<flowSpan
+   style="fill:#0000ff"
+   id="flowSpan4966">merge</flowSpan>). </flowPara><flowPara
+         id="flowPara4932"
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">The modifications can also not be re-integrated, and developped as an independent project (a <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan4968">fork</flowSpan>).</flowPara><flowPara
+         id="flowPara4936"
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">As Git allows to work collaboratively, several persons can work on the same file at the same time, which might create <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan4970">conflicts</flowSpan>. </flowPara><flowPara
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3289">Git prevents that by using advanced algorithms that automatically <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan4972">merges</flowSpan> the different versions: it reconciles the changes with the previous version in one newer version.</flowPara><flowPara
+         id="flowPara4938"
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">When Git cannot solve the conflicts alone (for instance, if the same line was modified by different persons at the same time), the users have to deal with it manually, and find/write a compromise for the newer version.</flowPara><flowPara
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara4946" /><flowPara
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete"
+         id="flowPara3293" /><flowPara
+         id="flowPara4940"
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">Some parts of this summary come from the page: </flowPara><flowPara
+         id="flowPara4942"
+         style="font-size:7.71700001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:OSP_Le-patin-helvete;-inkscape-font-specification:OSP_Le-patin-helvete">http://relearn.be/w/notes::merging</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="106.79815"
+       y="95.585258"
+       id="text4954"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26753)"><tspan
+         sodipodi:role="line"
+         id="tspan4956" /></text>
+  </g>
+</svg>

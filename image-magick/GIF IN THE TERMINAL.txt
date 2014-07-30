@@ -1,0 +1,17 @@
+ANIMATED GIF IN THE TERMINAL
+
+convert image1.png image2.png image3.png animated-image.gif
+
+ou encore mieux:
+
+convert *.png animated-image.gif
+
+Options:
+
+convert *.png animated-image.gif
+
+convert -delay 100 *.png animated-image.gif
+
+100 = une seconde
+
+convert -delay 100 image1.png image2.png -delay 500 image3.png animated-image.gif

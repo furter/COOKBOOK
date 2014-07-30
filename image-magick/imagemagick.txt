@@ -1,0 +1,13 @@
+http://www.fmwconcepts.com/imagemagick/
+
+brew install imagemagick --with-ghostscript
+
+
+
+$ convert image.jpg image.png
+
+$ mogrify -resize 50% rose.jpg
+
+$ mogrify -resize 256x256 *.jpg
+
+$ mogrify -format jpg *.png
